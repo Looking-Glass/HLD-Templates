@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Hololuminescent-Display-Template",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Looking Glass Factory",
+	"CreatedByURL": "https://lookingglassfactory.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,1 +1,33 @@
 /Blender/HLD TEMPLATE.blend1
+#################################
+# Unreal Engine Generated Files #
+#################################
+/Unreal/Hololuminescent/[Bb]uild
+/Unreal/Hololuminescent/[Bb]uilds
+/Unreal/Hololuminescent/Binaries
+/Unreal/Hololuminescent/DerivedDataCache
+/Unreal/Hololuminescent/Intermediate
+/Unreal/Hololuminescent/Saved
+
+#################################
+# Visual Studio Generated Files #
+#################################
+# Cache Directory
+/Unreal/Hololuminescent/.vs
+# User Specific Files
+/Unreal/Hololuminescent/*.rsuser
+/Unreal/Hololuminescent/*.suo
+/Unreal/Hololuminescent/*.user
+/Unreal/Hololuminescent/*.userosscache
+/Unreal/Hololuminescent/*.sln.docstates
+# CPP Cache Files
+/Unreal/Hololuminescent/*.VC.db
+/Unreal/Hololuminescent/*.opendb
+/Unreal/Hololuminescent/*.opensdf
+/Unreal/Hololuminescent/*.sdf
+# Solution Files
+/Unreal/Hololuminescent/*.sln
+# VSCode Cache Directory
+/Unreal/Hololuminescent/.vscode
+# VSCode History Files
+/Unreal/Hololuminescent/**/.history

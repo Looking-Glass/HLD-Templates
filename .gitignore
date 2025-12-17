@@ -3,8 +3,11 @@
 /Unreal/Hololuminescent/Saved
 /Unreal/Hololuminescent/Intermediate
 /Unreal/Hololuminescent/Binaries
+/Unreal/Hololuminescent/DerivedDataCache
+/Unreal/Hololuminescent/Build
 
 /Unreal/RealTimeExample/Saved
 /Unreal/RealTimeExample/Intermediate
 /Unreal/RealTimeExample/Binaries
-
+/Unreal/RealTimeExample/Build
+/Unreal/RealTimeExample/DerivedDataCache

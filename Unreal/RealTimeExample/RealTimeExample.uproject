@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.6",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RealTimeExample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VariantManager",
+			"Enabled": true
+		}
+	],
+	"AdditionalPluginDirectories": [
+		"../Hololuminescent/Plugins"
+	]
+}
